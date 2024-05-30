@@ -4,13 +4,13 @@
 
 A browser independent bookmark divider (Google Chrome, Firefox, Safari, Internet Explorer, Microsoft Edge). It works perfectly with light and dark themes due to its binary nature.
 
-You can clone this complex repository or just use the [hosted version on 000Webhost](https://bookmark-divider.000webhostapp.com/).
+You can clone this complex repository or just use the hosted version on [000Webhost](https://bookmark-divider.000webhostapp.com/) or [Github](https://x00la.github.io/bookmark-divider/).
 
 ---
 
 ## Use Case
 
-If you have too many bookmarks it can be easier to just use the favicons. But favicons can only be grouped in folders, but that's one additional click. Instead of folders you can just bookmark [this page](https://bookmark-divider.000webhostapp.com/) and create as many dividers as you need.
+If you have too many bookmarks it can be easier to just use the favicons. But favicons can only be grouped in folders, but that's one additional click. Instead of folders you can just bookmark [this page](https://bookmark-divider.000webhostapp.com/) or [this page](https://x00la.github.io/bookmark-divider/) and create as many dividers as you need.
 
   ![Bookmark Bar](md/all.png)
 
@@ -18,7 +18,7 @@ If you have too many bookmarks it can be easier to just use the favicons. But fa
 
 ## "Installation"
 
-1. Save [this page](https://bookmark-divider.000webhostapp.com/) as bookmark to you bookmark bar
+1. Save [this page](https://bookmark-divider.000webhostapp.com/) or [this page](https://x00la.github.io/bookmark-divider/) as bookmark to you bookmark bar
 
   ![Create Divider](md/create.png)
 
